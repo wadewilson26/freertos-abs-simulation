@@ -1,0 +1,11 @@
+# Compiled Object files and Executables
+*.o
+*.elf
+*.bin
+build/
+
+# OS generated files
+.DS_Store
+
+# Editor directories
+.vscode/
